@@ -1,0 +1,26 @@
+{
+  "id" : "035587b5-36e7-4d41-9ef1-ec2a17b6184c",
+  "name" : "objects_3",
+  "request" : {
+    "url" : "/objects/3",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"id\":\"3\",\"name\":\"Apple iPhone 12 Pro Max\",\"data\":{\"color\":\"Cloudy White\",\"capacity GB\":512}}",
+    "headers" : {
+      "CF-RAY" : "955c304c381df65a-LHR",
+      "Nel" : "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Server" : "cloudflare",
+      "Report-To" : "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=YCyQ7MwaUCeOMpFk1hblFLy%2FF0yrxkw%2Fgtw2hzVrrAm1S5bGDivANtz%2FXbaxLTsko7zuEPpPT%2FGrsMG2vhBa8c27XIPDirNbzzPuBXTMn3%2B%2F\"}]}",
+      "Cf-Cache-Status" : "DYNAMIC",
+      "Vary" : [ "Origin", "Access-Control-Request-Method", "Access-Control-Request-Headers" ],
+      "alt-svc" : "h3=\":443\"; ma=86400",
+      "Date" : "Thu, 26 Jun 2025 10:58:17 GMT",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "035587b5-36e7-4d41-9ef1-ec2a17b6184c",
+  "persistent" : true,
+  "insertionIndex" : 4
+}

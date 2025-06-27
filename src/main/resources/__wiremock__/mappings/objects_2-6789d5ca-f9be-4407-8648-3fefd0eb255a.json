@@ -1,0 +1,26 @@
+{
+  "id" : "6789d5ca-f9be-4407-8648-3fefd0eb255a",
+  "name" : "objects_2",
+  "request" : {
+    "url" : "/objects/2",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"id\":\"2\",\"name\":\"Apple iPhone 12 Mini, 256GB, Blue\",\"data\":null}",
+    "headers" : {
+      "CF-RAY" : "955c30695d194966-LHR",
+      "Nel" : "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Server" : "cloudflare",
+      "Report-To" : "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7jMKi2mj0dGOTH72wx8Kfge3kwNdPaFoiwrd0OBjSYLNMOwNAWjNad3Pyju8SUkZLLzDOzViK5igeGQL6BS8DMoP3WDRkbgouEmKenGiSQep\"}]}",
+      "Cf-Cache-Status" : "DYNAMIC",
+      "Vary" : [ "Origin", "Access-Control-Request-Method", "Access-Control-Request-Headers" ],
+      "alt-svc" : "h3=\":443\"; ma=86400",
+      "Date" : "Thu, 26 Jun 2025 10:58:22 GMT",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "6789d5ca-f9be-4407-8648-3fefd0eb255a",
+  "persistent" : true,
+  "insertionIndex" : 3
+}

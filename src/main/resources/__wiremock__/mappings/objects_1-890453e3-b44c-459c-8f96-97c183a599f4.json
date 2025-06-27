@@ -1,0 +1,26 @@
+{
+  "id" : "890453e3-b44c-459c-8f96-97c183a599f4",
+  "name" : "objects_1",
+  "request" : {
+    "url" : "/objects/1",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"id\":\"1\",\"name\":\"Google Pixel 6 Pro\",\"data\":{\"color\":\"Cloudy White\",\"capacity\":\"128 GB\"}}",
+    "headers" : {
+      "CF-RAY" : "955c30ebdcc1f383-LHR",
+      "Nel" : "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Server" : "cloudflare",
+      "Report-To" : "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=NlRLUEAjIpVuq2NTkKHNdM39y5sFKasWx0urGy22umX6WHWSBb2ssOzF2KRH2%2BX2WceuZZbF%2FB9VZmjDjSKVcVuCaA5zxa2%2FMT89dookEyL%2BqHM%3D\"}]}",
+      "Cf-Cache-Status" : "DYNAMIC",
+      "Vary" : [ "Origin", "Access-Control-Request-Method", "Access-Control-Request-Headers" ],
+      "alt-svc" : "h3=\":443\"; ma=86400",
+      "Date" : "Thu, 26 Jun 2025 10:58:43 GMT",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "890453e3-b44c-459c-8f96-97c183a599f4",
+  "persistent" : true,
+  "insertionIndex" : 5
+}
